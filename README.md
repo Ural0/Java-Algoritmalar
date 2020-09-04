@@ -1,1 +1,1 @@
-# javaDenemeProjelerim
+# java- Algoritmalar
