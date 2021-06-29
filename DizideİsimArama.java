@@ -1,4 +1,4 @@
-package HaziranAyi;
+package JavaİleALgoritmalar;
 
 /**
  *
