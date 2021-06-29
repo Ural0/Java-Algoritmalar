@@ -1,4 +1,13 @@
+/*
+Örnek Çıktı:
+
+oguz dizide bulundu
+metin dizide bulunamadı
+
+*/
+
 package JavaİleALgoritmalar;
+
 
 /**
  *
