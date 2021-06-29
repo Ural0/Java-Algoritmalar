@@ -1,3 +1,4 @@
+
 /* 
 Örnek Kod
 Bir sayi gir
@@ -8,7 +9,7 @@ bir(3)+iki(3)+üç(2)+dört(4)+=12
 import java.util.Scanner;
 
 
-public class Hüsam {
+public class SayiBasamak {
     
   // Mehmet Emin Ural 04/09/2020
     public static void main(String[] args) {
